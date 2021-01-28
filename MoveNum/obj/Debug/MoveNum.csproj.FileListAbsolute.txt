@@ -1,0 +1,5 @@
+F:\codeVS\2048Try\2048Try\MoveNum\bin\Debug\MoveNum.dll
+F:\codeVS\2048Try\2048Try\MoveNum\bin\Debug\MoveNum.pdb
+F:\codeVS\2048Try\2048Try\MoveNum\obj\Debug\MoveNum.csproj.CoreCompileInputs.cache
+F:\codeVS\2048Try\2048Try\MoveNum\obj\Debug\MoveNum.dll
+F:\codeVS\2048Try\2048Try\MoveNum\obj\Debug\MoveNum.pdb
